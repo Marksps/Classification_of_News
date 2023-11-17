@@ -1,0 +1,3 @@
+cd /d C:\Users\MARK\Desktop\project
+
+jupyter lab
